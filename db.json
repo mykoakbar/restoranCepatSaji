@@ -1,0 +1,104 @@
+{
+  "bestProduct": [
+    {
+      "id": 1,
+      "kode": "k-01",
+      "nama": "Sate Ayam Madura",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "sate_ayam_madura.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "k-02",
+      "nama": "Soto Lamongan",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "soto_lamongan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "k-03",
+      "nama": "Pizza Hut",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "pizzahut.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "k-04",
+      "nama": "Beef Burger",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "beef_burger.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "kode": "k-01",
+      "nama": "Pecel Lele",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "pecel_lele.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "k-02",
+      "nama": "Nasi Goreng Solo",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "nasi_goreng_solo.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "k-03",
+      "nama": "Bakso Solo",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "bakso_solo.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "k-04",
+      "nama": "Nasi Padang",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "nasi_padang.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "k-05",
+      "nama": "Sate Ayam Madura",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "sate_ayam_madura.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "k-06",
+      "nama": "Soto Lamongan",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "soto_lamongan.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "k-07",
+      "nama": "Pizza Hut",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "pizzahut.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "k-08",
+      "nama": "Beef Burger",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "beef_burger.jpg"
+    }
+  ],
+  "keranjang": [],
+  "pesanan": []
+}
