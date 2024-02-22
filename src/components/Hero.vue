@@ -28,7 +28,7 @@
         <div class="col-md-6 mt-5">
           <div class="d-flex h-100">
             <div class="justify-content-center align-self-center">
-              <h1><strong>Naomi Fast Food</strong></h1>
+              <h1><strong>Indonesian Fast Food</strong></h1>
               <h3>Ready Setiap saat</h3>
               <p>menu makanan khas dari berbagai daerah di indonesia</p>
               <button class="btn btn-lg btn-success"><b-icon icon="circle-fill" animation="throb" font-scale="1"></b-icon>      Pesan</button>
